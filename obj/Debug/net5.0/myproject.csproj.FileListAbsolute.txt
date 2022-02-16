@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\myproject\bin\Debug\net5.0\myproject.exe
+C:\Users\DELL\source\repos\myproject\bin\Debug\net5.0\myproject.deps.json
+C:\Users\DELL\source\repos\myproject\bin\Debug\net5.0\myproject.runtimeconfig.json
+C:\Users\DELL\source\repos\myproject\bin\Debug\net5.0\myproject.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\myproject\bin\Debug\net5.0\myproject.dll
+C:\Users\DELL\source\repos\myproject\bin\Debug\net5.0\ref\myproject.dll
+C:\Users\DELL\source\repos\myproject\bin\Debug\net5.0\myproject.pdb
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\myproject.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\myproject.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\myproject.AssemblyInfo.cs
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\myproject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\myproject.dll
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\ref\myproject.dll
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\myproject.pdb
+C:\Users\DELL\source\repos\myproject\obj\Debug\net5.0\myproject.genruntimeconfig.cache
