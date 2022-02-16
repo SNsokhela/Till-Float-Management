@@ -6,3 +6,23 @@ Beef samosas R56;Oak smoked salmon R230,R200-R50-R50
 Cheese sliders R66,R50-R10-R5-R1
 Bananas R20;Cucumber R15;Avocados R44,R50-R20-R10-R10
 Potatoes R30;Apples R33;Carrots R13,R50-R20-R5-R1 
+Till Start, Transcation Total, Paid, Change Total, Change breakdwon
+R500, R54, R60, R6, R2-R2-R2
+R548 , R113, R200, R87, R50-R20-R10-R5-R1-R1
+R526 , R73,R100,R27, R10-R10-R5-R2
+R546 ,R210, R250, R40, R20-R10-R5-R2-R1-R1-R1
+R670, R286, R300, R14, R10-R2-R2
+R772, R66, R66, R0, R0
+R566, R79, R90, R11, R5-R5-1
+R568, R76, R76, R0, R0
+R4696
+Till Start, Transcation Total, Paid, Change Total, Change breakdwon
+R500, R54, R60, R6, R2-R2-R2
+R548 , R113, R200, R87, R50-R20-R10-R5-R1-R1
+R526 , R73,R100,R27, R10-R10-R5-R2
+R546 ,R210, R250, R40, R20-R10-R5-R2-R1-R1-R1
+R670, R286, R300, R14, R10-R2-R2
+R772, R66, R66, R0, R0
+R566, R79, R90, R11, R5-R5-1
+R568, R76, R76, R0, R0
+R4696
